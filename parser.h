@@ -8,7 +8,7 @@
 #include "vector.h"
 #include "shape.h"
 // Remove comments below once Shape, Line, Circle... etc is done (Shortcut is Ctrl + /).
-// #include "line.h"
+#include "line.h"
 // #include "circle.h"
 // #include "polygon.h"
 // #include "polyline.h"
